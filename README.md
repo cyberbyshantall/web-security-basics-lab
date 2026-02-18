@@ -1,6 +1,6 @@
 # OWASP Juice Shop Challenges
 
-This repository contains my hands-on practice solving security challenges from the OWASP Juice Shop — a purposely vulnerable web application used to learn web security testing and hacking techniques.
+This repository contains my hands-on practice solving security challenges from the OWASP Juice Shop — a purposely vulnerable web application used to learn web security testing and hacking techniques.This project reflects foundational cybersecurity learning before transitioning into the GRC track.
 
 ## Challenges Completed
 
